@@ -1,0 +1,366 @@
+IP: 94.228.204.225 Port:1723 HostName:['union-tel.204.225.ru']
+PPTP:
+  Firmware: 1
+  Hostname: iFLAT prihod
+  Vendor: MikroTik
+IP: 94.228.194.18 Port:1723 HostName:['union-tel.194.18.ru']
+PPTP:
+  Firmware: 1
+  Hostname: iFLAT prihod
+  Vendor: MikroTik
+IP: 62.84.120.231 Port:9100 HostName:[]
+HTTP/1.1 400 Bad Request
+Content-Type: text/plain; charset=utf-8
+Connection: close
+
+400 Bad Request
+Prometheus Node Exporter:
+  node_exporter_build_info:
+    branch: HEAD
+    goversion: go1.15.8
+    revision: b597c1244d7bef49e6f3359c87a56dd7707f6719
+    version: 1.1.2
+  node_uname_info:
+    domainname: (none)
+    machine: x86_64
+    nodename: iflat-main
+    release: 4.19.0-18-amd64
+    sysname: Linux
+    version: #1 SMP Debian 4.19.208-1 (2021-09-29)
+  node_network_info:
+    vethacb77ee:
+      address: 56:68:5f:7a:55:6e
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethacb77ee
+      duplex: full
+      operstate: up
+    veth6667d70:
+      address: 9e:55:1d:65:02:3e
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth6667d70
+      duplex: full
+      operstate: up
+    veth49ef93a:
+      address: ca:19:72:5d:41:37
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth49ef93a
+      duplex: full
+      operstate: up
+    vethb50fc4f:
+      address: be:09:53:8d:98:11
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethb50fc4f
+      duplex: full
+      operstate: up
+    vethe6638f4:
+      address: 8e:3b:c6:a6:6b:ae
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethe6638f4
+      duplex: full
+      operstate: up
+    vethb79b209:
+      address: 36:04:4f:66:6b:8e
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethb79b209
+      duplex: full
+      operstate: up
+    vetha791059:
+      address: 6e:01:08:1d:9f:37
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vetha791059
+      duplex: full
+      operstate: up
+    veth4bb9444:
+      address: 86:f2:60:b9:78:dd
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth4bb9444
+      duplex: full
+      operstate: up
+    vetha9f54bd:
+      address: 2a:1f:6a:1a:e2:50
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vetha9f54bd
+      duplex: full
+      operstate: up
+    vethc53e973:
+      address: be:5f:52:34:2e:87
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethc53e973
+      duplex: full
+      operstate: up
+    vethb6ba551:
+      address: fe:f2:45:7d:a0:f3
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethb6ba551
+      duplex: full
+      operstate: up
+    veth1a2b5dd:
+      address: ba:97:c6:fa:51:12
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth1a2b5dd
+      duplex: full
+      operstate: up
+    eth0:
+      address: d0:0d:14:4a:86:ed
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: eth0
+      duplex: unknown
+      operstate: up
+    vethcc8c685:
+      address: 9a:c6:26:eb:2d:d4
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethcc8c685
+      duplex: full
+      operstate: up
+    vethe93caee:
+      address: 92:8d:21:ea:70:0e
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethe93caee
+      duplex: full
+      operstate: up
+    veth4710e93:
+      address: 1e:17:1b:48:9f:34
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth4710e93
+      duplex: full
+      operstate: up
+    lo:
+      address: 00:00:00:00:00:00
+      broadcast: 00:00:00:00:00:00
+      device: lo
+      operstate: unknown
+    vethb19ae8b:
+      address: 16:a6:8f:a5:6d:19
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethb19ae8b
+      duplex: full
+      operstate: up
+    vethbf9fe35:
+      address: ba:56:87:47:ad:cf
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethbf9fe35
+      duplex: full
+      operstate: up
+    docker_gwbridge:
+      address: 02:42:a0:b5:a5:a0
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: docker_gwbridge
+      operstate: up
+    veth3acd483:
+      address: 72:79:c7:81:7a:49
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth3acd483
+      duplex: full
+      operstate: up
+    veth5227b59:
+      address: 92:93:8e:1b:38:e3
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth5227b59
+      duplex: full
+      operstate: up
+    veth02c5532:
+      address: ca:ad:8d:42:91:3d
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth02c5532
+      duplex: full
+      operstate: up
+    vethacf4db9:
+      address: 3e:a3:7a:b1:22:5d
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethacf4db9
+      duplex: full
+      operstate: up
+    vethd652f30:
+      address: 2a:27:d4:0f:70:40
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethd652f30
+      duplex: full
+      operstate: up
+    veth4f79a7f:
+      address: e2:2d:59:66:7f:e2
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth4f79a7f
+      duplex: full
+      operstate: up
+    docker0:
+      address: 02:42:82:69:37:00
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: docker0
+      operstate: up
+    veth1015157:
+      address: b2:30:37:ac:23:9d
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth1015157
+      duplex: full
+      operstate: up
+    vethdc75f76:
+      address: 02:15:0d:c3:50:df
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethdc75f76
+      duplex: full
+      operstate: up
+    veth68a57ec:
+      address: 12:b6:49:54:31:9d
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth68a57ec
+      duplex: full
+      operstate: up
+    vethaf91a82:
+      address: 9a:fd:36:75:aa:87
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethaf91a82
+      duplex: full
+      operstate: up
+    veth6545f13:
+      address: 5a:f1:f9:a1:e5:0c
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth6545f13
+      duplex: full
+      operstate: up
+    veth3c775e7:
+      address: e2:90:f9:51:ce:fe
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth3c775e7
+      duplex: full
+      operstate: up
+    veth8a2db7e:
+      address: 7a:13:9f:df:2a:88
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth8a2db7e
+      duplex: full
+      operstate: up
+    veth4e2d625:
+      address: a6:59:5d:48:4f:10
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth4e2d625
+      duplex: full
+      operstate: up
+    veth71eaca7:
+      address: 2a:11:a8:f9:c1:94
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth71eaca7
+      duplex: full
+      operstate: up
+    vethe102720:
+      address: c6:47:27:24:1e:c2
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethe102720
+      duplex: full
+      operstate: up
+    veth2c812f2:
+      address: de:73:f0:6f:db:73
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth2c812f2
+      duplex: full
+      operstate: up
+    veth7e94f79:
+      address: 6a:cd:75:5d:63:cd
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth7e94f79
+      duplex: full
+      operstate: up
+    veth12d0ba8:
+      address: 52:2f:c1:8a:0d:53
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth12d0ba8
+      duplex: full
+      operstate: up
+    veth472c89d:
+      address: da:e8:53:5c:a0:23
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth472c89d
+      duplex: full
+      operstate: up
+    vethf7aec44:
+      address: 72:40:59:17:0b:06
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: vethf7aec44
+      duplex: full
+      operstate: up
+    veth53b7656:
+      address: 66:dd:0a:ac:05:b8
+      broadcast: ff:ff:ff:ff:ff:ff
+      device: veth53b7656
+      duplex: full
+      operstate: up
+
+IP: 91.194.246.166 Port:81 HostName:[]
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+Content-Length: 7063
+Content-Type: text/html
+Date: Thu, 18 May 2023 10:15:46 GMT
+Expires: 0
+
+
+MikroTik RouterOS:
+  Version: 6.49
+  Interfaces:
+    IFLAT
+
+IP: 2600:9000:2042:600:2:6b93:3e00:309a Port:443 HostName:[]
+HTTP/1.1 400 Bad Request
+Server: CloudFront
+Date: Sat, 06 May 2023 05:28:29 GMT
+Content-Type: text/html
+Content-Length: 915
+Connection: close
+X-Cache: Error from cloudfront
+Via: 1.1 f8fe4f851984f096441277ce2c333732.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAD51-C2
+X-Amz-Cf-Id: iflaT-X-wIqrcIhiCBviN2aHKdUhlBBLFYpS71RQrj8-9JEUDKZZtQ==
+
+
+IP: 3.84.186.45 Port:22 HostName:['ec2-3-84-186-45.compute-1.amazonaws.com']
+SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.5
+Key type: ssh-rsa
+Key: AAAAB3NzaC1yc2EAAAADAQABAAABAQC7+VDOqRA6Pnlzs1rcGzd4U78FiQ9KKhXpOEz0yHDY21Mf
+pyPIc7pKMglrdspXcfH0gOysx5t7iy9qmMR5yo3gO0THGXzq/0yXXTY2RBRixMEMP5erlCl9fzlj
+y8tANW1jSqj14IDhyHxCEE4BOjyJlylcR4750wlSvmOuwT3B3nL0dhJ3Fj/OjXN0iHP1BCI4ICIm
+P6fRSrdjJRlzdt6+aPwRQjjeob8eOOuR5vk9+MDXluDZic1f+w3UQp/LMTWCElF/f4ejaT/IfLat
+oU9RqAPTxuyqx2bASAW4GqSoXSUDXgzZ2OLgp1zqKUlDxC+A7sIqPzshIFsoMCdoqF9t
+Fingerprint: 8a:71:97:2b:36:11:cb:a7:b2:dc:c6:5c:24:51:4f:c8
+
+Kex Algorithms:
+	curve25519-sha256
+	curve25519-sha256@libssh.org
+	ecdh-sha2-nistp256
+	ecdh-sha2-nistp384
+	ecdh-sha2-nistp521
+	diffie-hellman-group-exchange-sha256
+	diffie-hellman-group16-sha512
+	diffie-hellman-group18-sha512
+	diffie-hellman-group14-sha256
+	diffie-hellman-group14-sha1
+
+Server Host Key Algorithms:
+	ssh-rsa
+	rsa-sha2-512
+	rsa-sha2-256
+	ecdsa-sha2-nistp256
+	ssh-ed25519
+
+Encryption Algorithms:
+	chacha20-poly1305@openssh.com
+	aes128-ctr
+	aes192-ctr
+	aes256-ctr
+	aes128-gcm@openssh.com
+	aes256-gcm@openssh.com
+
+MAC Algorithms:
+	umac-64-etm@openssh.com
+	umac-128-etm@openssh.com
+	hmac-sha2-256-etm@openssh.com
+	hmac-sha2-512-etm@openssh.com
+	hmac-sha1-etm@openssh.com
+	umac-64@openssh.com
+	umac-128@openssh.com
+	hmac-sha2-256
+	hmac-sha2-512
+	hmac-sha1
+
+Compression Algorithms:
+	none
+	zlib@openssh.com
+
